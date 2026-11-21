@@ -1,0 +1,17 @@
+# Dependencies (reinstall with: npm install)
+node_modules/
+
+# Build output (recreate with: npm run build)
+dist/
+
+# Logs and editor/OS clutter
+npm-debug.log*
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local environment files
+.env
+.env.*

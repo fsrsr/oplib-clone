@@ -1,0 +1,13 @@
+{
+  "name": "open-library-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "preview": "node serve.mjs"
+  },
+  "dependencies": {
+    "@fontsource/plus-jakarta-sans": "^5.1.0"
+  }
+}
